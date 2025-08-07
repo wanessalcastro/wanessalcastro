@@ -1,18 +1,18 @@
 <h1 align="center">Wanessa Leal</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  Estudante de Desenvolvimento Digital · · 
 </p>
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
 
 ## Sobre
 
-- Atuação em desenvolvimento full stack com JavaScript e TypeScript
+- Atuação em desenvolvimento Full Stack com JavaScript e TypeScript
 - Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
 - Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
 - Pós-graduação em Engenharia de Software e Digital Product Leadership
@@ -26,11 +26,10 @@
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
-
+- [LinkedIn](https:/www.linkedin.com/in/wanessa-leal-b324b7294)
+- [
+- [Portfólio]( )
+- [
 ---
 
-> Educar é tornar o saber algo com voz, sentido e sentimento.
+> 
