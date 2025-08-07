@@ -1,7 +1,7 @@
 <h1 align="center">Wanessa Leal</h1>
 
 <p align="center">
-  Estudante de Sistemas para Internet · Desenvolvimento Digital · 
+  Estudante de Sistemas para Internet · Desenvolvimento Digital · Arquitetura de Sistemas
 </p>
 
 ---
